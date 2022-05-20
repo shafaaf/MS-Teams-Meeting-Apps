@@ -1,0 +1,9 @@
+{
+  "generator-teams": {
+    "promptValues": {
+      "developer": "Shafaaf Comp"
+    },
+    "libraryName": "yeoman2",
+    "generator-version": "3.5.0"
+  }
+}
